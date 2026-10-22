@@ -1,5 +1,5 @@
 {
-  "game_name": "Platanus Hack: Caracas Brick Breaker",
-  "description": "Batalla campal por romper la mayor cantidad de ladrillos",
-  "player_mode": "two_player"
+  "game_name": "Escápate del Manguanguas",
+  "description": "Laberinto de Caracas: corre como el venezolano, esquiva al Manguanguas y a Yummy, recoge los cafés y paga con Cashea. Cada partida genera un mapa distinto.",
+  "player_mode": "single_player"
 }
